@@ -465,7 +465,7 @@ let films =[
     },
     {
         name: "Гамильтон",
-        img: "#",
+        img: "https://kino-teatr.ua/public/main/films/2020-06/x4_poster_5ef18aef1d538.jpg",
         year: 	2020,
         producer: ["Томас Каил"],
         genre: ["биография", "драма", "исторический фильм"],
